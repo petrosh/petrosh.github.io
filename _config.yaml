@@ -2,6 +2,7 @@ title: petrosh
 baseurl:
 description: Raw minimal theme for Jekyll
 permalink: pretty
+remote_theme: trasparente/rudra
 
 highlighter: rouge
 markdown: kramdown
