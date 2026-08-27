@@ -31,5 +31,3 @@ Raw minimal theme for Jekyll based on https://matildah.github.io/
 
 * https://developer.github.com/v3/orgs/#list-user-organizations
 * https://help.github.com/articles/publicizing-or-hiding-organization-membership/
-
-Bom
